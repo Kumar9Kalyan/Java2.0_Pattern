@@ -1,4 +1,4 @@
-
+package programs.pattern1;
 public class RhombusPattern {
 
 	public static void main(String[] args) {
